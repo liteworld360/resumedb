@@ -2,5 +2,5 @@
 	"mongoURI": "mongodb://admin:Yahook123@ds135653.mlab.com:35653/resumedb",
 	"jwtSecret": "secret",
 	"githubClientId": "liteworld360",
-	"githubSecret": ""
+	"githubSecret": "98ngb7fv6dcese5cdrvftb79gynhbfvdces"
 }
